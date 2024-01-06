@@ -1,0 +1,3 @@
+Depends: pgloader, ca-certificates, postgresql
+Tests: ssl
+Restrictions: allow-stderr, needs-root
