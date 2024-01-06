@@ -4,8 +4,6 @@ This PGLoader repo is specifically catered for Azure SQL Server to PostgreSQL mi
 
 ### Usage
 
-Docker image available on DockerHub.
-
 ```bash
 docker run --rm -it jahan9/pgloader:latest pgloader --version
 
